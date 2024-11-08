@@ -61,4 +61,4 @@ Se você trabalha com PHP e ainda não usa Composer de maneira eficiente, este c
 
 ## Licença
 
-Este repositório está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório está sob a licença GPL-3.0. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
